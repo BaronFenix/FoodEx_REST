@@ -1,0 +1,12 @@
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\bin\Debug\net6.0\FoodEx.Domain.deps.json
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\bin\Debug\net6.0\FoodEx.Domain.dll
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\bin\Debug\net6.0\FoodEx.Domain.pdb
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\FoodEx.Domain.csproj.AssemblyReference.cache
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\FoodEx.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\FoodEx.Domain.AssemblyInfoInputs.cache
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\FoodEx.Domain.AssemblyInfo.cs
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\FoodEx.Domain.csproj.CoreCompileInputs.cache
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\FoodEx.Domain.dll
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\refint\FoodEx.Domain.dll
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\FoodEx.Domain.pdb
+C:\Users\izino\source\repos\FoodEx\FoodEx.Domain\obj\Debug\net6.0\ref\FoodEx.Domain.dll

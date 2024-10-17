@@ -1,0 +1,17 @@
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\bin\Debug\net6.0\FoodEx.Infrastructure.deps.json
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\bin\Debug\net6.0\FoodEx.Infrastructure.dll
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\bin\Debug\net6.0\FoodEx.Infrastructure.pdb
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\bin\Debug\net6.0\FoodEx.Application.dll
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\bin\Debug\net6.0\FoodEx.Domain.dll
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\bin\Debug\net6.0\FoodEx.Application.pdb
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\bin\Debug\net6.0\FoodEx.Domain.pdb
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\FoodEx.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\FoodEx.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\FoodEx.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\FoodEx.Infrastructure.AssemblyInfo.cs
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\FoodEx.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\FoodEx.Infrastructure.csproj.CopyComplete
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\FoodEx.Infrastructure.dll
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\refint\FoodEx.Infrastructure.dll
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\FoodEx.Infrastructure.pdb
+C:\Users\izino\source\repos\FoodEx\FoodEx.Infrastructure\obj\Debug\net6.0\ref\FoodEx.Infrastructure.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FoodEx.Application/1.0.0": {
+        "dependencies": {
+          "FoodEx.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FoodEx.Application.dll": {}
+        }
+      },
+      "FoodEx.Domain/1.0.0": {
+        "runtime": {
+          "FoodEx.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodEx.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoodEx.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
